@@ -8,8 +8,8 @@ Clone and generate the project files:
 
 ```
 cd yourCodeDirectory
-git clone https://github.com/mac-comp465-f18/geometryshadersctivity
-cd geometryshadersactivity
+git clone https://github.com/mac-comp465/geometry-shader-activity
+cd geometry-shader-activity
 mkdir build
 cd build
 cmake-gui ..
