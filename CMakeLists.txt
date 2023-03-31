@@ -1,6 +1,6 @@
 
 # !!!!!!!!!!!!! EDIT THE FOLLOWING LINE AS NEEDED TO POINT AT YOUR BASIC GRAPHICS LIBARARY INSTALL !!!!!!!!!!!!! 
-list(APPEND CMAKE_PREFIX_PATH ../basicgraphics/build/install ../minvr/build/install /Volumes/Windows/Users/bjackson/Documents/classes/comp494-graphics/code/minvr/build/install /Volumes/Windows/Users/bjackson/Documents/classes/comp494-graphics/code/basicgraphics/build/install)
+list(APPEND CMAKE_PREFIX_PATH ../basicgraphics/build/install ../minvr/build/install /Users/bjackson/Documents/classes/comp494-graphics/code/minvr/build/install /Users/bjackson/Documents/classes/comp494-graphics/code/basicgraphics/build/install)
 
 
 
